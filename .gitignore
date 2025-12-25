@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+output.mp4
+traffic_log.csv
+.DS_Store
+*.log
+*.mp4
+*.pt
